@@ -2,3 +2,4 @@ my_environment/
 secrets1.py
 .env
 __pycache__
+venv/
