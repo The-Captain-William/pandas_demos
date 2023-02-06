@@ -3,3 +3,7 @@ secrets1.py
 .env
 __pycache__
 venv/
+ETL Project/compiled_data
+ETL Project/api_secret.py
+ETL Project/bank_market_cap.json
+
